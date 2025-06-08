@@ -1,0 +1,40 @@
+This Bike Sales Dashboard is built in Excel to visualize customer purchasing patterns and demographics related to bike sales. It provides a concise yet insightful overview using interactive charts and slicers, making it easier to analyze trends and relationships.
+
+Average Income per Purchase by Gender
+
+A stacked column chart showing average income of customers split by gender.
+
+Further segmented by whether the customer purchased a bike or not.
+
+Helps assess income patterns related to bike purchasing across genders.
+
+Customer Commute Distance vs. Bike Purchase
+
+A line chart that compares commute distances with bike purchasing decisions.
+
+X-axis: Commute distance ranges (e.g., 0–1 mile, 1–2 miles, etc.)
+
+Y-axis: Count of customers.
+
+Highlights whether customers with longer or shorter commutes are more likely to buy bikes.
+
+Customer Age Brackets
+
+A line chart segmented by age groups (Adolescent, Middle Age, Old).
+
+Compares bike purchase counts between customers who did and did not buy a bike.
+
+Reveals which age group contributes most to bike sales.
+
+
+Interactive Filters (Slicers)
+These slicers allow the user to dynamically filter all visualizations:
+
+Gender: Filter data by Male or Female.
+
+Marital Status: Choose between Married or Single customers.
+
+Region: Focus on specific geographies (Europe, North America, Pacific).
+
+Education Level: Segment data by education qualifications (e.g., High School, Bachelors, Graduate Degree).
+
